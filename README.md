@@ -2,7 +2,7 @@
 
 > **Content-Based Image Retrieval** com SIFT + Bag of Visual Words + similaridade espacial (IoU), aplicado ao dataset **Pascal VOC 2012** nas classes `cat` e `horse`.
 
-**Autores:** Maurício Fabiano Azevedo · Eduardo Barboza de Almeida
+**Autores:** Maurício Fabiano Azevedo · Eduardo de Almeida Barboza
 
 ---
 
